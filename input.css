@@ -1,0 +1,14 @@
+input {
+    border: solid white 0px;
+    border-bottom: 1px solid;
+    outline: none;
+}
+body {
+    background-image: linear-gradient(160deg,blue,rgb(75, 75, 190),rgb(92, 21, 114));
+    height: 600px;
+}
+.parent {
+    background-color: white;
+    width: 250px;
+    height: 300px;
+}
